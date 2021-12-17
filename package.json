@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bash": "^0.0.1",
     "vuepress": "^0.14.4"
   }
 }
